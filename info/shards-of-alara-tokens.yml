@@ -1,0 +1,18 @@
+---
+object: set
+id: 835956e2-d0ea-4219-b77e-b439208d0655
+code: tala
+name: Shards of Alara Tokens
+uri: https://api.scryfall.com/sets/835956e2-d0ea-4219-b77e-b439208d0655
+scryfall_uri: https://scryfall.com/sets/tala
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atala&unique=prints
+released_at: '2008-10-03'
+set_type: token
+card_count: 10
+parent_set_code: ala
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: ala
+block: Alara
+icon_svg_uri: https://svgs.scryfall.io/sets/ala.svg?1694404800

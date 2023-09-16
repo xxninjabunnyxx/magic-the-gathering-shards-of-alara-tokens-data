@@ -1,0 +1,173 @@
+---
+object: card
+id: cbb3e91d-9cae-49c8-ba92-087ad8171b9d
+oracle_id: c8790543-9399-4312-9b15-aa8a45c8fec7
+multiverse_ids: []
+tcgplayer_id: 78598
+name: Dragon
+lang: en
+released_at: '2008-10-03'
+uri: https://api.scryfall.com/cards/cbb3e91d-9cae-49c8-ba92-087ad8171b9d
+scryfall_uri: https://scryfall.com/card/tala/6/dragon?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/b/cbb3e91d-9cae-49c8-ba92-087ad8171b9d.jpg?1562636854
+  normal: https://cards.scryfall.io/normal/front/c/b/cbb3e91d-9cae-49c8-ba92-087ad8171b9d.jpg?1562636854
+  large: https://cards.scryfall.io/large/front/c/b/cbb3e91d-9cae-49c8-ba92-087ad8171b9d.jpg?1562636854
+  png: https://cards.scryfall.io/png/front/c/b/cbb3e91d-9cae-49c8-ba92-087ad8171b9d.png?1562636854
+  art_crop: https://cards.scryfall.io/art_crop/front/c/b/cbb3e91d-9cae-49c8-ba92-087ad8171b9d.jpg?1562636854
+  border_crop: https://cards.scryfall.io/border_crop/front/c/b/cbb3e91d-9cae-49c8-ba92-087ad8171b9d.jpg?1562636854
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Dragon
+oracle_text: Flying
+power: '4'
+toughness: '4'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Flying
+all_parts:
+- object: related_card
+  id: 6d0f3a05-7bd1-45f0-984e-670ef43554b7
+  component: combo_piece
+  name: Sarkhan Unbroken
+  type_line: Legendary Planeswalker — Sarkhan
+  uri: https://api.scryfall.com/cards/6d0f3a05-7bd1-45f0-984e-670ef43554b7
+- object: related_card
+  id: 99958fe2-eddb-4ebd-a17e-d8a0a589cb00
+  component: combo_piece
+  name: The Elder Dragon War
+  type_line: Enchantment — Saga
+  uri: https://api.scryfall.com/cards/99958fe2-eddb-4ebd-a17e-d8a0a589cb00
+- object: related_card
+  id: 5c75b106-349f-44e1-a737-079955cc91b2
+  component: combo_piece
+  name: Dragon Whisperer
+  type_line: Creature — Human Shaman
+  uri: https://api.scryfall.com/cards/5c75b106-349f-44e1-a737-079955cc91b2
+- object: related_card
+  id: 2aced16a-ebbd-47bb-a4c4-9454afa9971c
+  component: combo_piece
+  name: Sarkhan the Masterless
+  type_line: Legendary Planeswalker — Sarkhan
+  uri: https://api.scryfall.com/cards/2aced16a-ebbd-47bb-a4c4-9454afa9971c
+- object: related_card
+  id: aea1360e-7c6b-400c-893a-82d93e53101e
+  component: combo_piece
+  name: Broodmate Dragon
+  type_line: Creature — Dragon
+  uri: https://api.scryfall.com/cards/aea1360e-7c6b-400c-893a-82d93e53101e
+- object: related_card
+  id: d3488954-e248-40f2-8194-0c5ae78cd6d4
+  component: combo_piece
+  name: Rohgahh, Kher Keep Overlord
+  type_line: Legendary Creature — Kobold Warrior
+  uri: https://api.scryfall.com/cards/d3488954-e248-40f2-8194-0c5ae78cd6d4
+- object: related_card
+  id: cbb3e91d-9cae-49c8-ba92-087ad8171b9d
+  component: token
+  name: Dragon
+  type_line: Token Creature — Dragon
+  uri: https://api.scryfall.com/cards/cbb3e91d-9cae-49c8-ba92-087ad8171b9d
+- object: related_card
+  id: 465cb37e-627d-44ec-9d2d-6a630b14c25f
+  component: combo_piece
+  name: Dragon Cultist
+  type_line: Legendary Enchantment — Background
+  uri: https://api.scryfall.com/cards/465cb37e-627d-44ec-9d2d-6a630b14c25f
+- object: related_card
+  id: 5ab919f3-5797-406b-ae1f-7a7c27739b2d
+  component: combo_piece
+  name: Descent of the Dragons
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/5ab919f3-5797-406b-ae1f-7a7c27739b2d
+- object: related_card
+  id: ce89ded2-db31-43c0-b00c-999d5d3fa5c6
+  component: combo_piece
+  name: Sarkhan Vol
+  type_line: Legendary Planeswalker — Sarkhan
+  uri: https://api.scryfall.com/cards/ce89ded2-db31-43c0-b00c-999d5d3fa5c6
+- object: related_card
+  id: 2fdb4b92-8083-474b-8191-1948c5ee72ef
+  component: combo_piece
+  name: Rith, Liberated Primeval
+  type_line: Legendary Creature — Dragon
+  uri: https://api.scryfall.com/cards/2fdb4b92-8083-474b-8191-1948c5ee72ef
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 835956e2-d0ea-4219-b77e-b439208d0655
+set: tala
+set_name: Shards of Alara Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/835956e2-d0ea-4219-b77e-b439208d0655
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atala&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tala?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/cbb3e91d-9cae-49c8-ba92-087ad8171b9d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac8790543-9399-4312-9b15-aa8a45c8fec7&unique=prints
+collector_number: '6'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vance Kovacs
+artist_ids:
+- b5516011-4722-4fc8-8542-102cecc52b71
+illustration_id: 708ca047-b8c3-49d2-bc31-973de95572a3
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.45'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dragon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dragon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78598?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dragon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
